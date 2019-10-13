@@ -19,4 +19,4 @@ variable2 = 5
 print(variable); print(variable2)
 
 # Kelebihan di Python adalah, kita tidak harus mendeklarasikan tipe datanya
-# Python akan seara otomatis mengenali jenis data atau tipe data yang tersimpan dalam sebuah variabel.
+# Python akan secara otomatis mengenali jenis data atau tipe data yang tersimpan dalam sebuah variabel.
